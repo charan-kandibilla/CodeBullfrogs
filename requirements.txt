@@ -1,0 +1,13 @@
+Flask==2.2.2
+requests==2.28.1
+beautifulsoup4==4.11.1
+numpy==1.23.3
+pandas==1.5.0
+scikit-learn==1.1.2
+xgboost==1.6.2
+imblearn==0.0
+lxml==4.9.1
+pickleshare==0.7.5
+ssl  # Built-in module, no need to install
+socket  # Built-in module, no need to install
+datetime  # Built-in module, no need to install
